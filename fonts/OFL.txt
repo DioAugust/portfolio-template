@@ -1,0 +1,10 @@
+Sora, Inter e JetBrains Mono são distribuídas sob a SIL Open Font License, Version 1.1
+(https://openfontlicense.org, texto completo em https://scripts.sil.org/OFL).
+
+  Sora            (c) 2019 The Sora Project Authors            https://github.com/sora-xor/sora-font
+  Inter           (c) 2016 The Inter Project Authors           https://github.com/rsms/inter
+  JetBrains Mono  (c) 2020 The JetBrains Mono Project Authors  https://github.com/JetBrains/JetBrainsMono
+
+Os arquivos .woff2 desta pasta são subconjuntos (caracteres latinos) das fontes originais, com os eixos
+de peso limitados ao que o site usa. Por exigência da licença, o aviso acima acompanha as fontes.
+As fontes podem ser usadas, copiadas e redistribuídas livremente; não podem ser vendidas isoladamente.
