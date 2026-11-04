@@ -87,7 +87,10 @@ Teste também no celular (ou estreite a janela do navegador): a página foi feit
 
 ## 3. Como colocar no ar
 
-Qualquer hospedagem de sites que aceite arquivos serve. O passo a passo abaixo é genérico. Os nomes dos botões mudam de provedor para provedor, e o que o seu plano inclui (domínio, e-mail, SSL) depende das condições dele. Confira no site da hospedagem.
+> **Onde eu hospedo:** o meu portfólio fica na **HostGator**. Se você ainda não tem hospedagem, este é o meu link de indicação: **[hostgator.com.br/53314](https://www.hostgator.com.br/53314.html)**. Na Black November, os planos trienais de hospedagem ganham 3 meses.
+> _#publi: é um link de parceria paga com a HostGator. Você não paga nada a mais por usar ele._
+
+Mas o template não depende da HostGator: qualquer hospedagem de sites que aceite arquivos serve. O passo a passo abaixo é genérico. Os nomes dos botões mudam de provedor para provedor, e o que o seu plano inclui (domínio, e-mail, SSL) depende das condições dele. Confira no site da hospedagem.
 
 1. **Registre ou conecte o seu domínio.** Alguns planos incluem domínio no primeiro ano, conforme as condições do plano. Confira antes de contar com isso.
 2. **Crie o e-mail do domínio** (`contato@seudominio.com.br`) no painel da hospedagem, na área de e-mails. Atualize o `content.js` com ele.
